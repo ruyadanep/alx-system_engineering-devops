@@ -13,6 +13,11 @@
 7-movethatfile
 8-firstdelete
 9-firstdirdeletion
+10-back
+11-lists
+12-file_type
+13-symbolic_link
+14-copy_html
 README.md
 
 ..:
