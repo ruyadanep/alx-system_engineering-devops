@@ -1,5 +1,13 @@
-Shell script to print present working directory
-Display the contents list of your current directory.
-Script that changes the working directory to the user’s home directory
-Display current directory contents in a long format
-Display current directory contents, including hidden files (starting with .). 
+0-current_working_directory
+10-back
+11-lists
+1-listit
+2-bring_me_home
+3-listfiles
+4-listmorefiles
+5-listfilesdigitonly
+6-firstdirectory
+7-movethatfile
+8-firstdelete
+9-firstdirdeletion
+README.md
