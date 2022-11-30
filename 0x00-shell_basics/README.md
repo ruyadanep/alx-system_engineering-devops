@@ -21,7 +21,8 @@
 100-lets_move
 101-clean_emacs
 102-tree
-103-commas 
+103-commas
+school.mgc 
 README.md
 
 ..:
