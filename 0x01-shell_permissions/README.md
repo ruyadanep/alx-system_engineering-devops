@@ -9,3 +9,7 @@
 9. 7-everybody						file/text
 10. 8. James Bond					file/text
 11. 9-John_Doe						file/text
+12. 10-mirror_permissions				file/text
+13. 11-directories_permissions				file/text
+14. 12-directory_permissions				file/text
+15. 13-change_group					fiel/text
