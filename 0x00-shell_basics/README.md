@@ -1,3 +1,4 @@
+0:                           inode/x-empty
 0-current_working_directory: text/plain
 100-lets_move:               text/plain
 101-clean_emacs:             text/plain
@@ -21,6 +22,4 @@ fake_school0:                text/plain
 fake_school1:                text/plain
 file_school0:                School
 file_school1:                School
-file_test0:                  inode/x-empty
-h_school.mgc:                application/octet-stream
-README.md:     ...
+file_test0:                  i...
