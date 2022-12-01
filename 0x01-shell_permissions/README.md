@@ -5,4 +5,5 @@
 5. 3-new_owner						file/text
 6. 4-empty						file/text
 7. 5-execute						file/text
+8. 6-multiple_permissions				file/text
 
