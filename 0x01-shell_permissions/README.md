@@ -6,4 +6,5 @@
 6. 4-empty						file/text
 7. 5-execute						file/text
 8. 6-multiple_permissions				file/text
+9. 7-everybody						file/text
 
