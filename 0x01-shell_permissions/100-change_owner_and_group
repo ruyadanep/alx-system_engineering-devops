@@ -1,2 +1,2 @@
 #!/bin/bash
-chown staff:user vincent
+chown staff vincent
