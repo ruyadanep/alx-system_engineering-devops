@@ -2,5 +2,5 @@
 0-hello_world					textfile/plain
 1-confused_smiley				textfile/plain
 2-hellofile					textfile/plain
-3-twofiles					testfile/plain
-
+3-twofiles					textfile/plain
+4-lastlines					textfile/plain
