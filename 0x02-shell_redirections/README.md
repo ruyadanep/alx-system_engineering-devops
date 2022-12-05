@@ -4,3 +4,5 @@
 2-hellofile					textfile/plain
 3-twofiles					textfile/plain
 4-lastlines					textfile/plain
+5-firstlines					textfile/plain
+
