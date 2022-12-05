@@ -5,4 +5,4 @@
 3-twofiles					textfile/plain
 4-lastlines					textfile/plain
 5-firstlines					textfile/plain
-
+6-third_line					textfile/plain
