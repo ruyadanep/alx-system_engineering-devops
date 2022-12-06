@@ -9,4 +9,5 @@
 7-create_global_variable						textfile/plain
 8-true_knowledge							textfile/plain
 9-divide_and_rule							textfile/plain
+10-love_exponent_breath							textfile/plain
 
