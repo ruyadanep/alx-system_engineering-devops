@@ -10,4 +10,5 @@
 8-cwd_state					textfile/plain
 9-duplicate_last_line				textfile/plain
 10-no_more_js					textfile/plain
+11-directories					textfile/plain
 
