@@ -8,4 +8,5 @@
 6-third_line					textfile/plain
 7-file						textfile/plan
 8-cwd_state					textfile/plain
+9-duplicate_last_line				textfile/plain
 
