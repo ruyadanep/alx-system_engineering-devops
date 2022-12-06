@@ -6,3 +6,6 @@
 4-lastlines					textfile/plain
 5-firstlines					textfile/plain
 6-third_line					textfile/plain
+7-file						textfile/plan
+8-cwd_state					textfile/plain
+
