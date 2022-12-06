@@ -4,4 +4,5 @@
 2-path									textfile/plain
 3-paths									textfile/plain
 4-global_variables							textfile/plain
+5-local_variables							textfile/plain
 
