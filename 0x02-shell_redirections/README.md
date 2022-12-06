@@ -12,3 +12,4 @@
 10-no_more_js					textfile/plain
 11-directories					textfile/plain
 12-newest_files					textfile/plain
+13-unique					textfile/plain
