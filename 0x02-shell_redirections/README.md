@@ -18,3 +18,5 @@
 16-whatsnext					textfile/plain
 17-hidethisword					textfile/plain
 18-letteronly					textfile/plain
+19-AZ						textfile/palin
+
