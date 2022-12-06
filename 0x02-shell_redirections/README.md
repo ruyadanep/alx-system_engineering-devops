@@ -19,4 +19,5 @@
 17-hidethisword					textfile/plain
 18-letteronly					textfile/plain
 19-AZ						textfile/palin
+20-hiago					textfile/plain
 
