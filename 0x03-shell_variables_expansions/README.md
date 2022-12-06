@@ -14,5 +14,5 @@
 12-combinations								textfile/plain
 13-print_float								textfile/plain
 101-rot13								textfile/plain
-101-rot13								textfile/plain
-
+102-odd									textfile/plain
+103-water_and_stir							textfile/plain
