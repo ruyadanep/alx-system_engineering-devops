@@ -22,4 +22,5 @@
 20-hiago					textfile/plain
 22-users_and_homes				textfile/plain
 21-reverse					textfile/plain
-
+100-empty_casks					textfile/plain
+101-gifs					textfile/plain
