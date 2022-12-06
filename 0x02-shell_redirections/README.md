@@ -24,3 +24,5 @@
 21-reverse					textfile/plain
 100-empty_casks					textfile/plain
 101-gifs					textfile/plain
+102-acrostic					textfile/plain
+103-the_biggest_fan				textfile/plain
