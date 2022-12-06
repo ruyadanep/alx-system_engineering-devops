@@ -16,4 +16,5 @@
 14-findthatword					textfile/plain
 15-countthatword				textfile/plain
 16-whatsnext					textfile/plain
-17-hidethisword					textfile/palin
+17-hidethisword					textfile/plain
+18-letteronly					textfile/plain
