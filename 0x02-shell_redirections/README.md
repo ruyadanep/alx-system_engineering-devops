@@ -13,3 +13,5 @@
 11-directories					textfile/plain
 12-newest_files					textfile/plain
 13-unique					textfile/plain
+14-findthatword					textfile/plain
+
