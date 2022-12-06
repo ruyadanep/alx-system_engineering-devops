@@ -20,4 +20,6 @@
 18-letteronly					textfile/plain
 19-AZ						textfile/palin
 20-hiago					textfile/plain
+22-users_and_homes				textfile/plain
+21-reverse					textfile/plain
 
