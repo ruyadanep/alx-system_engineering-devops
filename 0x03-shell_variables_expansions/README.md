@@ -8,4 +8,5 @@
 6-create_local_variable							textfile/plain
 7-create_global_variable						textfile/plain
 8-true_knowledge							textfile/plain
+9-divide_and_rule							textfile/plain
 
