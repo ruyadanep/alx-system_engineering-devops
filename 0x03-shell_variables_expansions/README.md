@@ -12,4 +12,7 @@
 10-love_exponent_breath							textfile/plain
 11-binary_to_decimal							textfile/plain
 12-combinations								textfile/plain
+13-print_float								textfile/plain
+101-rot13								textfile/plain
+101-rot13								textfile/plain
 
