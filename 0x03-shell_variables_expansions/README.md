@@ -3,4 +3,5 @@
 1-hello_you								textfile/plain
 2-path									textfile/plain
 3-paths									textfile/plain
+4-global_variables							textfile/plain
 
