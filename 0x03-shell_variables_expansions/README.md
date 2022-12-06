@@ -10,4 +10,6 @@
 8-true_knowledge							textfile/plain
 9-divide_and_rule							textfile/plain
 10-love_exponent_breath							textfile/plain
+11-binary_to_decimal							textfile/plain
+12-combinations								textfile/plain
 
